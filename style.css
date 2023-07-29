@@ -235,6 +235,9 @@ header .navbar .row .item img{
 }
 /**********************************************************/
 @media (max-width:375px){
+    body{
+        overflow-X: hidden;
+    }
     header{
         background-image:url(images/bg-hero-mobile.svg) ;
     }
