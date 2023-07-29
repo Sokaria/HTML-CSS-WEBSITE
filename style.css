@@ -247,11 +247,8 @@ header .navbar .row .item img{
         font-size: 12px;
         padding:0rem 0rem;
     }
-    header{
-        height: 100vh;
-    }
     header .head{
-        height: 18vh;
+        height: 20vh;
         width: 100%;
         display: flex;
         justify-content: space-between;
@@ -289,13 +286,12 @@ header .navbar .row .item img{
     .flowing .row1 ,.flowing .row2 , .flowing .row3{
         width: 100%;
         grid-template-columns: 1fr;
-        align-items:center;
         row-gap: 60px;
         padding: 4rem 1rem 4rem 7rem;
     }
     .flowing .row1 .item ,.flowing .row2 .item ,.flowing .row3 .item {
         padding: 0 3rem;
-        margin-left: -115px;
+        margin-left: -110px;
     }
     .flowing .row1 .item h2 , .flowing .row2 .item h2 ,.flowing .row3 .item h2{
         font-size: 20px;
